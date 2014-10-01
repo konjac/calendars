@@ -1,0 +1,580 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Coursera Calendars//NONSGML//EN
+X-WR-CALNAME:Coursera Deadlines
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:973326|quiz|18|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=18
+SUMMARY:Week 1 - Programming Assignment  [optional:  extra credit] (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|18|soft
+DTSTART:20140930T055900Z
+DTEND:20140930T065900Z
+DTSTAMP:20140930T055900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20140930T055900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=18
+SUMMARY:Week 1 - Programming Assignment  [optional:  extra credit] (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|57|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=57
+SUMMARY:Week 1 - Problem Set (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|57|soft
+DTSTART:20140930T055900Z
+DTEND:20140930T065900Z
+DTSTAMP:20140930T055900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20140930T055900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=57
+SUMMARY:Week 1 - Problem Set (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|58|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=58
+SUMMARY:Week 2 - Problem Set (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|58|soft
+DTSTART:20141007T055900Z
+DTEND:20141007T065900Z
+DTSTAMP:20141007T055900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141007T055900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=58
+SUMMARY:Week 2 - Problem Set (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|61|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=61
+SUMMARY:Week 5 - Problem Set (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|61|soft
+DTSTART:20141028T055900Z
+DTEND:20141028T065900Z
+DTSTAMP:20141028T055900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141028T055900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=61
+SUMMARY:Week 5 - Problem Set (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|65|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=65
+SUMMARY:Week 5 - Programming Assignment [optional: extra credit] (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|65|soft
+DTSTART:20141028T055900Z
+DTEND:20141028T065900Z
+DTSTAMP:20141028T055900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141028T055900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=65
+SUMMARY:Week 5 - Programming Assignment [optional: extra credit] (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|69|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=69
+SUMMARY:Week 3 - Problem Set (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|69|soft
+DTSTART:20141014T055900Z
+DTEND:20141014T065900Z
+DTSTAMP:20141014T055900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141014T055900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=69
+SUMMARY:Week 3 - Problem Set (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|100|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=100
+SUMMARY:Week 6 - Programming Assignment [optional: extra credit] (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|100|soft
+DTSTART:20141104T065900Z
+DTEND:20141104T075900Z
+DTSTAMP:20141104T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141104T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=100
+SUMMARY:Week 6 - Programming Assignment [optional: extra credit] (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|101|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=101
+SUMMARY:Week 6 - Problem Set (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|101|soft
+DTSTART:20141104T065900Z
+DTEND:20141104T075900Z
+DTSTAMP:20141104T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141104T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=101
+SUMMARY:Week 6 - Problem Set (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|102|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=102
+SUMMARY:Final Exam (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|121|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=121
+SUMMARY:Week 2 - Programming Assignment [optional: extra credit] (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|121|soft
+DTSTART:20141007T055900Z
+DTEND:20141007T065900Z
+DTSTAMP:20141007T055900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141007T055900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=121
+SUMMARY:Week 2 - Programming Assignment [optional: extra credit] (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|122|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=122
+SUMMARY:Week 3 - Programming Assignment [optional: extra credit] (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|122|soft
+DTSTART:20141014T055900Z
+DTEND:20141014T065900Z
+DTSTAMP:20141014T055900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141014T055900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=122
+SUMMARY:Week 3 - Programming Assignment [optional: extra credit] (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|123|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=123
+SUMMARY:Week 4 - programming project [optional: extra credit] (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|123|soft
+DTSTART:20141021T055900Z
+DTEND:20141021T065900Z
+DTSTAMP:20141021T055900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141021T055900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=123
+SUMMARY:Week 4 - programming project [optional: extra credit] (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|125|hard
+DTSTART:20141111T065900Z
+DTEND:20141111T075900Z
+DTSTAMP:20141111T065900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141111T065900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=125
+SUMMARY:Week 4 - Problem Set (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|quiz|125|soft
+DTSTART:20141021T055900Z
+DTEND:20141021T065900Z
+DTSTAMP:20141021T055900Z
+CREATED:20140930T205405Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141021T055900Z
+LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=125
+SUMMARY:Week 4 - Problem Set (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|assessment|2|submission
+DTSTART:20130905T214700Z
+DTEND:20130905T224700Z
+DTSTAMP:20130905T214700Z
+CREATED:20140930T205405Z
+DESCRIPTION: Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130905T214700Z
+LOCATION:https://class.coursera.org/crypto-012/human_grading/view?assessment_id=2
+SUMMARY:[DEMO] Example Assessment (Submission Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973326|assessment|2|evaluation
+DTSTART:20130912T214700Z
+DTEND:20130912T224700Z
+DTSTAMP:20130912T214700Z
+CREATED:20140930T205405Z
+DESCRIPTION: Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130912T214700Z
+LOCATION:https://class.coursera.org/crypto-012/human_grading/view?assessment_id=2
+SUMMARY:[DEMO] Example Assessment (Evaluation Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973284|quiz|45|hard
+DTSTART:20141018T230000Z
+DTEND:20141019T000000Z
+DTSTAMP:20141018T230000Z
+CREATED:20140930T205406Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141018T230000Z
+LOCATION:https://class.coursera.org/ntumlone-002/quiz/start?quiz_id=45
+SUMMARY:作業一 (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973284|quiz|45|soft
+DTSTART:20141013T230000Z
+DTEND:20141014T000000Z
+DTSTAMP:20141013T230000Z
+CREATED:20140930T205406Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized by 20% for each day after the due date. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141013T230000Z
+LOCATION:https://class.coursera.org/ntumlone-002/quiz/start?quiz_id=45
+SUMMARY:作業一 (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973276|quiz|29|hard
+DTSTART:20140926T000000Z
+DTEND:20140926T010000Z
+DTSTAMP:20140926T000000Z
+CREATED:20140930T205407Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20140926T000000Z
+LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=29
+SUMMARY:计算机基本结构quiz (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973276|quiz|29|soft
+DTSTART:20140924T000000Z
+DTEND:20140924T010000Z
+DTSTAMP:20140924T000000Z
+CREATED:20140930T205407Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20140924T000000Z
+LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=29
+SUMMARY:计算机基本结构quiz (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973276|quiz|31|hard
+DTSTART:20141017T000000Z
+DTEND:20141017T010000Z
+DTSTAMP:20141017T000000Z
+CREATED:20140930T205407Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141017T000000Z
+LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=31
+SUMMARY:算术逻辑单元quiz (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973276|quiz|31|soft
+DTSTART:20141015T000000Z
+DTEND:20141015T010000Z
+DTSTAMP:20141015T000000Z
+CREATED:20140930T205407Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141015T000000Z
+LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=31
+SUMMARY:算术逻辑单元quiz (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973276|quiz|69|hard
+DTSTART:20141003T120000Z
+DTEND:20141003T130000Z
+DTSTAMP:20141003T120000Z
+CREATED:20140930T205407Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141003T120000Z
+LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=69
+SUMMARY:指令系统体系结构quiz (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973276|quiz|69|soft
+DTSTART:20141001T120000Z
+DTEND:20141001T130000Z
+DTSTAMP:20141001T120000Z
+CREATED:20140930T205407Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141001T120000Z
+LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=69
+SUMMARY:指令系统体系结构quiz (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973276|assessment|3|submission
+DTSTART:20141020T000000Z
+DTEND:20141020T010000Z
+DTSTAMP:20141020T000000Z
+CREATED:20140930T205407Z
+DESCRIPTION: Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141020T000000Z
+LOCATION:https://class.coursera.org/pkuco-001/human_grading/view?assessment_id=3
+SUMMARY:MIPS汇编程序设计 (Submission Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973276|assessment|3|evaluation
+DTSTART:20141027T000000Z
+DTEND:20141027T010000Z
+DTSTAMP:20141027T000000Z
+CREATED:20140930T205407Z
+DESCRIPTION: Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141027T000000Z
+LOCATION:https://class.coursera.org/pkuco-001/human_grading/view?assessment_id=3
+SUMMARY:MIPS汇编程序设计 (Evaluation Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973272|quiz|51|hard
+DTSTART:20141013T143000Z
+DTEND:20141013T153000Z
+DTSTAMP:20141013T143000Z
+CREATED:20140930T205409Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141013T143000Z
+LOCATION:https://class.coursera.org/catmooc-001/quiz/start?quiz_id=51
+SUMMARY:课后作业题 Assignment (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973272|quiz|51|soft
+DTSTART:20141006T143000Z
+DTEND:20141006T153000Z
+DTSTAMP:20141006T143000Z
+CREATED:20140930T205409Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141006T143000Z
+LOCATION:https://class.coursera.org/catmooc-001/quiz/start?quiz_id=51
+SUMMARY:课后作业题 Assignment (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973272|quiz|109|hard
+DTSTART:20141013T143000Z
+DTEND:20141013T153000Z
+DTSTAMP:20141013T143000Z
+CREATED:20140930T205409Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141013T143000Z
+LOCATION:https://class.coursera.org/catmooc-001/quiz/start?quiz_id=109
+SUMMARY:课后作业题 Assignment (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:973272|quiz|109|soft
+DTSTART:20141006T143000Z
+DTEND:20141006T153000Z
+DTSTAMP:20141006T143000Z
+CREATED:20140930T205409Z
+DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20141006T143000Z
+LOCATION:https://class.coursera.org/catmooc-001/quiz/start?quiz_id=109
+SUMMARY:课后作业题 Assignment (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
