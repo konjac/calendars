@@ -8,11 +8,11 @@ UID:973326|quiz|18|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=18
-SUMMARY:Week 1 - Programming Assignment  [optional:  extra credit] (Hard Deadline)
+SUMMARY:[Crypto]Week 1 - Programming Assignment  [optional:  extra credit] (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -26,11 +26,11 @@ UID:973326|quiz|18|soft
 DTSTART:20140930T055900Z
 DTEND:20140930T065900Z
 DTSTAMP:20140930T055900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20140930T055900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=18
-SUMMARY:Week 1 - Programming Assignment  [optional:  extra credit] (Due Date)
+SUMMARY:[Crypto]Week 1 - Programming Assignment  [optional:  extra credit] (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -44,11 +44,11 @@ UID:973326|quiz|57|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=57
-SUMMARY:Week 1 - Problem Set (Hard Deadline)
+SUMMARY:[Crypto]Week 1 - Problem Set (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -62,11 +62,11 @@ UID:973326|quiz|57|soft
 DTSTART:20140930T055900Z
 DTEND:20140930T065900Z
 DTSTAMP:20140930T055900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20140930T055900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=57
-SUMMARY:Week 1 - Problem Set (Due Date)
+SUMMARY:[Crypto]Week 1 - Problem Set (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -80,11 +80,11 @@ UID:973326|quiz|58|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=58
-SUMMARY:Week 2 - Problem Set (Hard Deadline)
+SUMMARY:[Crypto]Week 2 - Problem Set (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -98,11 +98,11 @@ UID:973326|quiz|58|soft
 DTSTART:20141007T055900Z
 DTEND:20141007T065900Z
 DTSTAMP:20141007T055900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141007T055900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=58
-SUMMARY:Week 2 - Problem Set (Due Date)
+SUMMARY:[Crypto]Week 2 - Problem Set (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -116,11 +116,11 @@ UID:973326|quiz|61|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=61
-SUMMARY:Week 5 - Problem Set (Hard Deadline)
+SUMMARY:[Crypto]Week 5 - Problem Set (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -134,11 +134,11 @@ UID:973326|quiz|61|soft
 DTSTART:20141028T055900Z
 DTEND:20141028T065900Z
 DTSTAMP:20141028T055900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141028T055900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=61
-SUMMARY:Week 5 - Problem Set (Due Date)
+SUMMARY:[Crypto]Week 5 - Problem Set (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -152,11 +152,11 @@ UID:973326|quiz|65|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=65
-SUMMARY:Week 5 - Programming Assignment [optional: extra credit] (Hard Deadline)
+SUMMARY:[Crypto]Week 5 - Programming Assignment [optional: extra credit] (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -170,11 +170,11 @@ UID:973326|quiz|65|soft
 DTSTART:20141028T055900Z
 DTEND:20141028T065900Z
 DTSTAMP:20141028T055900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141028T055900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=65
-SUMMARY:Week 5 - Programming Assignment [optional: extra credit] (Due Date)
+SUMMARY:[Crypto]Week 5 - Programming Assignment [optional: extra credit] (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -188,11 +188,11 @@ UID:973326|quiz|69|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=69
-SUMMARY:Week 3 - Problem Set (Hard Deadline)
+SUMMARY:[Crypto]Week 3 - Problem Set (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -206,11 +206,11 @@ UID:973326|quiz|69|soft
 DTSTART:20141014T055900Z
 DTEND:20141014T065900Z
 DTSTAMP:20141014T055900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141014T055900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=69
-SUMMARY:Week 3 - Problem Set (Due Date)
+SUMMARY:[Crypto]Week 3 - Problem Set (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -224,11 +224,11 @@ UID:973326|quiz|100|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=100
-SUMMARY:Week 6 - Programming Assignment [optional: extra credit] (Hard Deadline)
+SUMMARY:[Crypto]Week 6 - Programming Assignment [optional: extra credit] (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -242,11 +242,11 @@ UID:973326|quiz|100|soft
 DTSTART:20141104T065900Z
 DTEND:20141104T075900Z
 DTSTAMP:20141104T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141104T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=100
-SUMMARY:Week 6 - Programming Assignment [optional: extra credit] (Due Date)
+SUMMARY:[Crypto]Week 6 - Programming Assignment [optional: extra credit] (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -260,11 +260,11 @@ UID:973326|quiz|101|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=101
-SUMMARY:Week 6 - Problem Set (Hard Deadline)
+SUMMARY:[Crypto]Week 6 - Problem Set (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -278,11 +278,11 @@ UID:973326|quiz|101|soft
 DTSTART:20141104T065900Z
 DTEND:20141104T075900Z
 DTSTAMP:20141104T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141104T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=101
-SUMMARY:Week 6 - Problem Set (Due Date)
+SUMMARY:[Crypto]Week 6 - Problem Set (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -296,11 +296,11 @@ UID:973326|quiz|102|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=102
-SUMMARY:Final Exam (Hard Deadline)
+SUMMARY:[Crypto]Final Exam (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -314,11 +314,11 @@ UID:973326|quiz|121|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=121
-SUMMARY:Week 2 - Programming Assignment [optional: extra credit] (Hard Deadline)
+SUMMARY:[Crypto]Week 2 - Programming Assignment [optional: extra credit] (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -332,11 +332,11 @@ UID:973326|quiz|121|soft
 DTSTART:20141007T055900Z
 DTEND:20141007T065900Z
 DTSTAMP:20141007T055900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141007T055900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=121
-SUMMARY:Week 2 - Programming Assignment [optional: extra credit] (Due Date)
+SUMMARY:[Crypto]Week 2 - Programming Assignment [optional: extra credit] (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -350,11 +350,11 @@ UID:973326|quiz|122|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=122
-SUMMARY:Week 3 - Programming Assignment [optional: extra credit] (Hard Deadline)
+SUMMARY:[Crypto]Week 3 - Programming Assignment [optional: extra credit] (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -368,11 +368,11 @@ UID:973326|quiz|122|soft
 DTSTART:20141014T055900Z
 DTEND:20141014T065900Z
 DTSTAMP:20141014T055900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141014T055900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=122
-SUMMARY:Week 3 - Programming Assignment [optional: extra credit] (Due Date)
+SUMMARY:[Crypto]Week 3 - Programming Assignment [optional: extra credit] (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -386,11 +386,11 @@ UID:973326|quiz|123|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=123
-SUMMARY:Week 4 - programming project [optional: extra credit] (Hard Deadline)
+SUMMARY:[Crypto]Week 4 - programming project [optional: extra credit] (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -404,11 +404,11 @@ UID:973326|quiz|123|soft
 DTSTART:20141021T055900Z
 DTEND:20141021T065900Z
 DTSTAMP:20141021T055900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141021T055900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=123
-SUMMARY:Week 4 - programming project [optional: extra credit] (Due Date)
+SUMMARY:[Crypto]Week 4 - programming project [optional: extra credit] (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -422,11 +422,11 @@ UID:973326|quiz|125|hard
 DTSTART:20141111T065900Z
 DTEND:20141111T075900Z
 DTSTAMP:20141111T065900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141111T065900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=125
-SUMMARY:Week 4 - Problem Set (Hard Deadline)
+SUMMARY:[Crypto]Week 4 - Problem Set (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -440,11 +440,11 @@ UID:973326|quiz|125|soft
 DTSTART:20141021T055900Z
 DTEND:20141021T065900Z
 DTSTAMP:20141021T055900Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141021T055900Z
 LOCATION:https://class.coursera.org/crypto-012/quiz/start?quiz_id=125
-SUMMARY:Week 4 - Problem Set (Due Date)
+SUMMARY:[Crypto]Week 4 - Problem Set (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -458,11 +458,11 @@ UID:973326|assessment|2|submission
 DTSTART:20130905T214700Z
 DTEND:20130905T224700Z
 DTSTAMP:20130905T214700Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION: Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20130905T214700Z
 LOCATION:https://class.coursera.org/crypto-012/human_grading/view?assessment_id=2
-SUMMARY:[DEMO] Example Assessment (Submission Deadline)
+SUMMARY:[Crypto][DEMO] Example Assessment (Submission Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -476,11 +476,11 @@ UID:973326|assessment|2|evaluation
 DTSTART:20130912T214700Z
 DTEND:20130912T224700Z
 DTSTAMP:20130912T214700Z
-CREATED:20141006T083002Z
+CREATED:20141006T085841Z
 DESCRIPTION: Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20130912T214700Z
 LOCATION:https://class.coursera.org/crypto-012/human_grading/view?assessment_id=2
-SUMMARY:[DEMO] Example Assessment (Evaluation Deadline)
+SUMMARY:[Crypto][DEMO] Example Assessment (Evaluation Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -494,11 +494,11 @@ UID:973284|quiz|45|hard
 DTSTART:20141018T230000Z
 DTEND:20141019T000000Z
 DTSTAMP:20141018T230000Z
-CREATED:20141006T083004Z
+CREATED:20141006T085842Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141018T230000Z
 LOCATION:https://class.coursera.org/ntumlone-002/quiz/start?quiz_id=45
-SUMMARY:作業一 (Hard Deadline)
+SUMMARY:[MLFound]作業一 (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -512,11 +512,11 @@ UID:973284|quiz|45|soft
 DTSTART:20141013T230000Z
 DTEND:20141014T000000Z
 DTSTAMP:20141013T230000Z
-CREATED:20141006T083004Z
+CREATED:20141006T085842Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized by 20% for each day after the due date. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141013T230000Z
 LOCATION:https://class.coursera.org/ntumlone-002/quiz/start?quiz_id=45
-SUMMARY:作業一 (Due Date)
+SUMMARY:[MLFound]作業一 (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -530,11 +530,11 @@ UID:973276|quiz|29|hard
 DTSTART:20140926T000000Z
 DTEND:20140926T010000Z
 DTSTAMP:20140926T000000Z
-CREATED:20141006T083005Z
+CREATED:20141006T085843Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20140926T000000Z
 LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=29
-SUMMARY:计算机基本结构quiz (Hard Deadline)
+SUMMARY:[ComOrg]计算机基本结构quiz (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -548,11 +548,11 @@ UID:973276|quiz|29|soft
 DTSTART:20140924T000000Z
 DTEND:20140924T010000Z
 DTSTAMP:20140924T000000Z
-CREATED:20141006T083005Z
+CREATED:20141006T085843Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20140924T000000Z
 LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=29
-SUMMARY:计算机基本结构quiz (Due Date)
+SUMMARY:[ComOrg]计算机基本结构quiz (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -566,11 +566,11 @@ UID:973276|quiz|31|hard
 DTSTART:20141017T000000Z
 DTEND:20141017T010000Z
 DTSTAMP:20141017T000000Z
-CREATED:20141006T083005Z
+CREATED:20141006T085843Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141017T000000Z
 LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=31
-SUMMARY:算术逻辑单元quiz (Hard Deadline)
+SUMMARY:[ComOrg]算术逻辑单元quiz (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -584,11 +584,11 @@ UID:973276|quiz|31|soft
 DTSTART:20141015T000000Z
 DTEND:20141015T010000Z
 DTSTAMP:20141015T000000Z
-CREATED:20141006T083005Z
+CREATED:20141006T085843Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141015T000000Z
 LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=31
-SUMMARY:算术逻辑单元quiz (Due Date)
+SUMMARY:[ComOrg]算术逻辑单元quiz (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -602,11 +602,11 @@ UID:973276|quiz|69|hard
 DTSTART:20141003T120000Z
 DTEND:20141003T130000Z
 DTSTAMP:20141003T120000Z
-CREATED:20141006T083005Z
+CREATED:20141006T085843Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141003T120000Z
 LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=69
-SUMMARY:指令系统体系结构quiz (Hard Deadline)
+SUMMARY:[ComOrg]指令系统体系结构quiz (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -620,11 +620,11 @@ UID:973276|quiz|69|soft
 DTSTART:20141001T120000Z
 DTEND:20141001T130000Z
 DTSTAMP:20141001T120000Z
-CREATED:20141006T083005Z
+CREATED:20141006T085843Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141001T120000Z
 LOCATION:https://class.coursera.org/pkuco-001/quiz/start?quiz_id=69
-SUMMARY:指令系统体系结构quiz (Due Date)
+SUMMARY:[ComOrg]指令系统体系结构quiz (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -638,11 +638,11 @@ UID:973276|assessment|3|submission
 DTSTART:20141020T000000Z
 DTEND:20141020T010000Z
 DTSTAMP:20141020T000000Z
-CREATED:20141006T083005Z
+CREATED:20141006T085843Z
 DESCRIPTION: Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141020T000000Z
 LOCATION:https://class.coursera.org/pkuco-001/human_grading/view?assessment_id=3
-SUMMARY:MIPS汇编程序设计 (Submission Deadline)
+SUMMARY:[ComOrg]MIPS汇编程序设计 (Submission Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -656,11 +656,11 @@ UID:973276|assessment|3|evaluation
 DTSTART:20141027T000000Z
 DTEND:20141027T010000Z
 DTSTAMP:20141027T000000Z
-CREATED:20141006T083005Z
+CREATED:20141006T085843Z
 DESCRIPTION: Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141027T000000Z
 LOCATION:https://class.coursera.org/pkuco-001/human_grading/view?assessment_id=3
-SUMMARY:MIPS汇编程序设计 (Evaluation Deadline)
+SUMMARY:[ComOrg]MIPS汇编程序设计 (Evaluation Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -674,11 +674,11 @@ UID:973272|quiz|51|hard
 DTSTART:20141013T143000Z
 DTEND:20141013T153000Z
 DTSTAMP:20141013T143000Z
-CREATED:20141006T083007Z
+CREATED:20141006T085846Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141013T143000Z
 LOCATION:https://class.coursera.org/catmooc-001/quiz/start?quiz_id=51
-SUMMARY:课后作业题 Assignment (Hard Deadline)
+SUMMARY:[CAT]课后作业题 Assignment (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -692,11 +692,11 @@ UID:973272|quiz|51|soft
 DTSTART:20141006T143000Z
 DTEND:20141006T153000Z
 DTSTAMP:20141006T143000Z
-CREATED:20141006T083007Z
+CREATED:20141006T085846Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141006T143000Z
 LOCATION:https://class.coursera.org/catmooc-001/quiz/start?quiz_id=51
-SUMMARY:课后作业题 Assignment (Due Date)
+SUMMARY:[CAT]课后作业题 Assignment (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -710,11 +710,11 @@ UID:973272|quiz|109|hard
 DTSTART:20141013T143000Z
 DTEND:20141013T153000Z
 DTSTAMP:20141013T143000Z
-CREATED:20141006T083007Z
+CREATED:20141006T085846Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141013T143000Z
 LOCATION:https://class.coursera.org/catmooc-001/quiz/start?quiz_id=109
-SUMMARY:课后作业题 Assignment (Hard Deadline)
+SUMMARY:[CAT]课后作业题 Assignment (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -728,11 +728,11 @@ UID:973272|quiz|109|soft
 DTSTART:20141006T143000Z
 DTEND:20141006T153000Z
 DTSTAMP:20141006T143000Z
-CREATED:20141006T083007Z
+CREATED:20141006T085846Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 50%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141006T143000Z
 LOCATION:https://class.coursera.org/catmooc-001/quiz/start?quiz_id=109
-SUMMARY:课后作业题 Assignment (Due Date)
+SUMMARY:[CAT]课后作业题 Assignment (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -746,11 +746,11 @@ UID:972304|quiz|16|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=16
-SUMMARY:I. Introduction (Hard Deadline)
+SUMMARY:[ML]I. Introduction (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -764,11 +764,11 @@ UID:972304|quiz|16|soft
 DTSTART:20141013T055900Z
 DTEND:20141013T065900Z
 DTSTAMP:20141013T055900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141013T055900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=16
-SUMMARY:I. Introduction (Due Date)
+SUMMARY:[ML]I. Introduction (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -782,11 +782,11 @@ UID:972304|quiz|17|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=17
-SUMMARY:II. Linear regression with one variable (Hard Deadline)
+SUMMARY:[ML]II. Linear regression with one variable (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -800,11 +800,11 @@ UID:972304|quiz|17|soft
 DTSTART:20141013T055900Z
 DTEND:20141013T065900Z
 DTSTAMP:20141013T055900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141013T055900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=17
-SUMMARY:II. Linear regression with one variable (Due Date)
+SUMMARY:[ML]II. Linear regression with one variable (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -818,11 +818,11 @@ UID:972304|quiz|20|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=20
-SUMMARY:III. Linear Algebra (Hard Deadline)
+SUMMARY:[ML]III. Linear Algebra (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -836,11 +836,11 @@ UID:972304|quiz|20|soft
 DTSTART:20141013T055900Z
 DTEND:20141013T065900Z
 DTSTAMP:20141013T055900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141013T055900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=20
-SUMMARY:III. Linear Algebra (Due Date)
+SUMMARY:[ML]III. Linear Algebra (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -854,11 +854,11 @@ UID:972304|quiz|67|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=67
-SUMMARY:IV. Linear Regression with Multiple Variables (Hard Deadline)
+SUMMARY:[ML]IV. Linear Regression with Multiple Variables (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -872,11 +872,11 @@ UID:972304|quiz|67|soft
 DTSTART:20141020T055900Z
 DTEND:20141020T065900Z
 DTSTAMP:20141020T055900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141020T055900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=67
-SUMMARY:IV. Linear Regression with Multiple Variables (Due Date)
+SUMMARY:[ML]IV. Linear Regression with Multiple Variables (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -890,11 +890,11 @@ UID:972304|quiz|68|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=68
-SUMMARY:V. Octave Tutorial (Hard Deadline)
+SUMMARY:[ML]V. Octave Tutorial (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -908,11 +908,11 @@ UID:972304|quiz|68|soft
 DTSTART:20141020T055900Z
 DTEND:20141020T065900Z
 DTSTAMP:20141020T055900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141020T055900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=68
-SUMMARY:V. Octave Tutorial (Due Date)
+SUMMARY:[ML]V. Octave Tutorial (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -926,11 +926,11 @@ UID:972304|quiz|69|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=69
-SUMMARY:VI. Logistic Regression (Hard Deadline)
+SUMMARY:[ML]VI. Logistic Regression (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -944,11 +944,11 @@ UID:972304|quiz|69|soft
 DTSTART:20141027T055900Z
 DTEND:20141027T065900Z
 DTSTAMP:20141027T055900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141027T055900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=69
-SUMMARY:VI. Logistic Regression (Due Date)
+SUMMARY:[ML]VI. Logistic Regression (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -962,11 +962,11 @@ UID:972304|quiz|70|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=70
-SUMMARY:VII. Regularization (Hard Deadline)
+SUMMARY:[ML]VII. Regularization (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -980,11 +980,11 @@ UID:972304|quiz|70|soft
 DTSTART:20141027T055900Z
 DTEND:20141027T065900Z
 DTSTAMP:20141027T055900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141027T055900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=70
-SUMMARY:VII. Regularization (Due Date)
+SUMMARY:[ML]VII. Regularization (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -998,11 +998,11 @@ UID:972304|quiz|71|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=71
-SUMMARY:VIII. Neural Networks: Representation (Hard Deadline)
+SUMMARY:[ML]VIII. Neural Networks: Representation (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1016,11 +1016,11 @@ UID:972304|quiz|71|soft
 DTSTART:20141103T065900Z
 DTEND:20141103T075900Z
 DTSTAMP:20141103T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141103T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=71
-SUMMARY:VIII. Neural Networks: Representation (Due Date)
+SUMMARY:[ML]VIII. Neural Networks: Representation (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1034,11 +1034,11 @@ UID:972304|quiz|75|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=75
-SUMMARY:IX. Neural Networks: Learning (Hard Deadline)
+SUMMARY:[ML]IX. Neural Networks: Learning (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1052,11 +1052,11 @@ UID:972304|quiz|75|soft
 DTSTART:20141110T065900Z
 DTEND:20141110T075900Z
 DTSTAMP:20141110T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141110T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=75
-SUMMARY:IX. Neural Networks: Learning (Due Date)
+SUMMARY:[ML]IX. Neural Networks: Learning (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1070,11 +1070,11 @@ UID:972304|quiz|132|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=132
-SUMMARY:X. Advice for Applying Machine Learning (Hard Deadline)
+SUMMARY:[ML]X. Advice for Applying Machine Learning (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1088,11 +1088,11 @@ UID:972304|quiz|132|soft
 DTSTART:20141117T065900Z
 DTEND:20141117T075900Z
 DTSTAMP:20141117T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141117T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=132
-SUMMARY:X. Advice for Applying Machine Learning (Due Date)
+SUMMARY:[ML]X. Advice for Applying Machine Learning (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1106,11 +1106,11 @@ UID:972304|quiz|133|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=133
-SUMMARY:XI. Machine Learning System Design (Hard Deadline)
+SUMMARY:[ML]XI. Machine Learning System Design (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1124,11 +1124,11 @@ UID:972304|quiz|133|soft
 DTSTART:20141117T065900Z
 DTEND:20141117T075900Z
 DTSTAMP:20141117T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141117T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=133
-SUMMARY:XI. Machine Learning System Design (Due Date)
+SUMMARY:[ML]XI. Machine Learning System Design (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1142,11 +1142,11 @@ UID:972304|quiz|134|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=134
-SUMMARY:XII. Support Vector Machines (Hard Deadline)
+SUMMARY:[ML]XII. Support Vector Machines (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1160,11 +1160,11 @@ UID:972304|quiz|134|soft
 DTSTART:20141124T065900Z
 DTEND:20141124T075900Z
 DTSTAMP:20141124T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141124T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=134
-SUMMARY:XII. Support Vector Machines (Due Date)
+SUMMARY:[ML]XII. Support Vector Machines (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1178,11 +1178,11 @@ UID:972304|quiz|135|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=135
-SUMMARY:XIII. Clustering (Hard Deadline)
+SUMMARY:[ML]XIII. Clustering (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1196,11 +1196,11 @@ UID:972304|quiz|135|soft
 DTSTART:20141201T065900Z
 DTEND:20141201T075900Z
 DTSTAMP:20141201T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141201T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=135
-SUMMARY:XIII. Clustering (Due Date)
+SUMMARY:[ML]XIII. Clustering (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1214,11 +1214,11 @@ UID:972304|quiz|136|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=136
-SUMMARY:XIV. Principal Component Analysis (Hard Deadline)
+SUMMARY:[ML]XIV. Principal Component Analysis (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1232,11 +1232,11 @@ UID:972304|quiz|136|soft
 DTSTART:20141201T065900Z
 DTEND:20141201T075900Z
 DTSTAMP:20141201T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141201T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=136
-SUMMARY:XIV. Principal Component Analysis (Due Date)
+SUMMARY:[ML]XIV. Principal Component Analysis (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1250,11 +1250,11 @@ UID:972304|quiz|137|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=137
-SUMMARY:XV. Anomaly Detection (Hard Deadline)
+SUMMARY:[ML]XV. Anomaly Detection (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1268,11 +1268,11 @@ UID:972304|quiz|137|soft
 DTSTART:20141208T065900Z
 DTEND:20141208T075900Z
 DTSTAMP:20141208T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141208T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=137
-SUMMARY:XV. Anomaly Detection (Due Date)
+SUMMARY:[ML]XV. Anomaly Detection (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1286,11 +1286,11 @@ UID:972304|quiz|138|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=138
-SUMMARY:XVI. Recommender Systems (Hard Deadline)
+SUMMARY:[ML]XVI. Recommender Systems (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1304,11 +1304,11 @@ UID:972304|quiz|138|soft
 DTSTART:20141208T065900Z
 DTEND:20141208T075900Z
 DTSTAMP:20141208T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141208T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=138
-SUMMARY:XVI. Recommender Systems (Due Date)
+SUMMARY:[ML]XVI. Recommender Systems (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1322,11 +1322,11 @@ UID:972304|quiz|139|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=139
-SUMMARY:XVII. Large Scale Machine Learning (Hard Deadline)
+SUMMARY:[ML]XVII. Large Scale Machine Learning (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1340,11 +1340,11 @@ UID:972304|quiz|139|soft
 DTSTART:20141215T065900Z
 DTEND:20141215T075900Z
 DTSTAMP:20141215T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141215T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=139
-SUMMARY:XVII. Large Scale Machine Learning (Due Date)
+SUMMARY:[ML]XVII. Large Scale Machine Learning (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1358,11 +1358,11 @@ UID:972304|quiz|140|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=140
-SUMMARY:XVIII. Application: Photo OCR (Hard Deadline)
+SUMMARY:[ML]XVIII. Application: Photo OCR (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1376,11 +1376,11 @@ UID:972304|quiz|140|soft
 DTSTART:20141215T065900Z
 DTEND:20141215T075900Z
 DTSTAMP:20141215T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141215T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=140
-SUMMARY:XVIII. Application: Photo OCR (Due Date)
+SUMMARY:[ML]XVIII. Application: Photo OCR (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1394,11 +1394,11 @@ UID:972304|quiz|291|hard
 DTSTART:20150103T065900Z
 DTEND:20150103T075900Z
 DTSTAMP:20150103T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20150103T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=291
-SUMMARY:Entrance Survey (Hard Deadline)
+SUMMARY:[ML]Entrance Survey (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1412,11 +1412,11 @@ UID:972304|quiz|291|soft
 DTSTART:20150102T065900Z
 DTEND:20150102T075900Z
 DTSTAMP:20150102T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20150102T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=291
-SUMMARY:Entrance Survey (Due Date)
+SUMMARY:[ML]Entrance Survey (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1430,11 +1430,11 @@ UID:972304|quiz|293|hard
 DTSTART:20150103T065900Z
 DTEND:20150103T075900Z
 DTSTAMP:20150103T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20150103T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=293
-SUMMARY:Post Course Survey (Hard Deadline)
+SUMMARY:[ML]Post Course Survey (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1448,11 +1448,11 @@ UID:972304|quiz|293|soft
 DTSTART:20150102T065900Z
 DTEND:20150102T075900Z
 DTSTAMP:20150102T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20150102T065900Z
 LOCATION:https://class.coursera.org/ml-007/quiz/start?quiz_id=293
-SUMMARY:Post Course Survey (Due Date)
+SUMMARY:[ML]Post Course Survey (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1466,11 +1466,11 @@ UID:972304|assignment|2|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=2
-SUMMARY:Linear Regression (Hard Deadline)
+SUMMARY:[ML]Linear Regression (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1484,11 +1484,11 @@ UID:972304|assignment|2|soft
 DTSTART:20141020T055900Z
 DTEND:20141020T065900Z
 DTSTAMP:20141020T055900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141020T055900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=2
-SUMMARY:Linear Regression (Due Date)
+SUMMARY:[ML]Linear Regression (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1502,11 +1502,11 @@ UID:972304|assignment|3|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=3
-SUMMARY:Logistic Regression (Hard Deadline)
+SUMMARY:[ML]Logistic Regression (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1520,11 +1520,11 @@ UID:972304|assignment|3|soft
 DTSTART:20141027T055900Z
 DTEND:20141027T065900Z
 DTSTAMP:20141027T055900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141027T055900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=3
-SUMMARY:Logistic Regression (Due Date)
+SUMMARY:[ML]Logistic Regression (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1538,11 +1538,11 @@ UID:972304|assignment|4|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=4
-SUMMARY:Multi-class Classification and Neural Networks (Hard Deadline)
+SUMMARY:[ML]Multi-class Classification and Neural Networks (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1556,11 +1556,11 @@ UID:972304|assignment|4|soft
 DTSTART:20141103T065900Z
 DTEND:20141103T075900Z
 DTSTAMP:20141103T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141103T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=4
-SUMMARY:Multi-class Classification and Neural Networks (Due Date)
+SUMMARY:[ML]Multi-class Classification and Neural Networks (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1574,11 +1574,11 @@ UID:972304|assignment|6|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=6
-SUMMARY:Neural Network Learning (Hard Deadline)
+SUMMARY:[ML]Neural Network Learning (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1592,11 +1592,11 @@ UID:972304|assignment|6|soft
 DTSTART:20141110T065900Z
 DTEND:20141110T075900Z
 DTSTAMP:20141110T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141110T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=6
-SUMMARY:Neural Network Learning (Due Date)
+SUMMARY:[ML]Neural Network Learning (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1610,11 +1610,11 @@ UID:972304|assignment|7|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=7
-SUMMARY:Regularized Linear Regression and Bias/Variance (Hard Deadline)
+SUMMARY:[ML]Regularized Linear Regression and Bias/Variance (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1628,11 +1628,11 @@ UID:972304|assignment|7|soft
 DTSTART:20141117T065900Z
 DTEND:20141117T075900Z
 DTSTAMP:20141117T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141117T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=7
-SUMMARY:Regularized Linear Regression and Bias/Variance (Due Date)
+SUMMARY:[ML]Regularized Linear Regression and Bias/Variance (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1646,11 +1646,11 @@ UID:972304|assignment|8|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=8
-SUMMARY:Support Vector Machines (Hard Deadline)
+SUMMARY:[ML]Support Vector Machines (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1664,11 +1664,11 @@ UID:972304|assignment|8|soft
 DTSTART:20141124T065900Z
 DTEND:20141124T075900Z
 DTSTAMP:20141124T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141124T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=8
-SUMMARY:Support Vector Machines (Due Date)
+SUMMARY:[ML]Support Vector Machines (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1682,11 +1682,11 @@ UID:972304|assignment|9|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141222T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=9
-SUMMARY:K-Means Clustering and PCA (Hard Deadline)
+SUMMARY:[ML]K-Means Clustering and PCA (Hard Deadline)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1700,11 +1700,11 @@ UID:972304|assignment|9|soft
 DTSTART:20141201T065900Z
 DTEND:20141201T075900Z
 DTSTAMP:20141201T065900Z
-CREATED:20141006T083008Z
+CREATED:20141006T085847Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized 20%. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20141201T065900Z
 LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=9
-SUMMARY:K-Means Clustering and PCA (Due Date)
+SUMMARY:[ML]K-Means Clustering and PCA (Due Date)
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -1718,23 +1718,5 @@ UID:972304|assignment|10|hard
 DTSTART:20141222T065900Z
 DTEND:20141222T075900Z
 DTSTAMP:20141222T065900Z
-CREATED:20141006T083008Z
-DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
-LAST-MODIFIED:20141222T065900Z
-LOCATION:https://class.coursera.org/ml-007/assignment/view?assignment_id=10
-SUMMARY:Anomaly Detection and Recommender Systems (Hard Deadline)
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-PT1080M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:972304|assignment|10|soft
-DTSTART:20141208T065900Z
-DTEND:20141208T075900Z
-DTSTAMP:20141208T065900Z
-CREATED:20141006T083008Z
-DESCRIP
+CREATED:20141006T085847Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receiv
