@@ -840,4 +840,13 @@ CREATED:20150126T003005Z
 DESCRIPTION:If you submit after the due date (but before the hard deadline)\, your submission score will be penalized by 20% for each day after the due date. Note that deadlines are sometimes extended\, so check the website for the latest information.
 LAST-MODIFIED:20150127T025900Z
 LOCATION:https://class.coursera.org/ntumltwo-001/quiz/start?quiz_id=101
-SUMMAR
+SUMMARY:[MLTech]Homework 2 (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1080M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
